@@ -1,0 +1,5 @@
+本次实验基础功能和选做功能分别打包成两个JAR包，分别命名为KNN.jar WeightedKNN.jar
+基础功能：
+java -cp KNN.jar KNN 测试集路径 训练集路径 基础功能输出路径
+任务二：
+java -cp WeightedKNN.jar WeightedKNN 测试集路径 训练集路径 选做功能输出路径
